@@ -1,0 +1,31 @@
+.small{
+    font-size: 50px;
+    
+    }
+    
+    
+    
+    .medium{
+    font-size: 150px
+    
+    
+    }
+    
+    
+    
+    
+    .large{
+    font-size: 250px;
+    
+    
+    }
+    
+    .light{
+        background-color: white;
+        color:black
+    }
+    
+    .dark{
+        background-color: black;
+        color: white;
+    }
